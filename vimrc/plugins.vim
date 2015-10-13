@@ -7,7 +7,8 @@ call pathogen#helptags()
 " Custom color scheme
 "------------------------------------------------------------------------------
 try
-    colorscheme foursee
+    set background=dark
+    colorscheme solarized
 catch
 endtry
 
